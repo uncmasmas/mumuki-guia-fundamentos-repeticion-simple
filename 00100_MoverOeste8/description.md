@@ -1,0 +1,1 @@
+Vamos a entrar en calor: escribí un procedimiento `MoverOeste6`, que mueva el cabezal 6 veces hacia el Oeste.
