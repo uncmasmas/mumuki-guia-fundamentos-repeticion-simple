@@ -1,0 +1,3 @@
+expectations:
+- binding: DibujarLineaNegra6
+  inspection: HasRepeat
