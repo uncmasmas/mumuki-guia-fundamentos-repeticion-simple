@@ -1,0 +1,25 @@
+check_head_position: true
+
+subject: MoverOeste
+
+examples:
+ - initial_board: |
+     GBB/1.0
+     size 4 2
+     head 2 0
+   final_board: |
+     GBB/1.0
+     size 4 2
+     head 0 0
+   arguments:
+    - 2
+ - initial_board: |
+     GBB/1.0
+     size 4 2
+     head 3 0
+   final_board: |
+     GBB/1.0
+     size 4 2
+     head 0 0
+   arguments:
+    - 3
