@@ -2,7 +2,7 @@ Mirá como quedaría `DibujarLineaNegra3` usando `repeat`:
 
 ```puppet
 procedure DibujarLineaNegra3() {
-  repeat(3) {
+  repeat(2) {
     Poner(Negro)
     Mover(Este)
   }
