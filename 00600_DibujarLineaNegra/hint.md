@@ -1,1 +1,3 @@
-Fijate que tanto la secuencia `Poner(Negro) - Mover(Este)` como `MoverOeste` se repiten **dos** veces para dibujar una línea de longitud **tres**. Como te dijimos antes, entre los paréntesis del `repeat` puede ir cualquier cosa que represente un número... como por ejemplo una operación matemática como `longitud - 1` :wink:
+Fijate que tanto la secuencia `Poner(Negro) - Mover(Este)` como `MoverOeste` se repiten **dos** veces para dibujar una línea de longitud **tres**. 
+
+Como te dijimos antes, entre los paréntesis del `repeat` puede ir cualquier cosa que represente un número... como por ejemplo una operación matemática: `longitud - 1` :wink:

@@ -1,3 +1,8 @@
-¡Perfecto!
+Como te imaginarás, todas las operaciones matemáticas básicas pueden realizarse en Gobstones:
 
-Acabamos de descubrir que entre los paréntesis del `repeat` no sólo pueden ir números (como 7 o 42), sino también **expresiones** que denoten valores numéricos (como `cantidad` en este caso). No importa si no lo terminás de entender, ya volveremos sobre esto dentro de algunos ejercicios.
+* **suma**: `2 + 3`, `cantidad + 7`
+* **resta**: `2 - 3`, `cantidad - 7`
+* **multiplicación**: `2 * 3`, `cantidad * 7`
+* **división (entera, sin decimales)** `2 / 3`, `cantidad / 7`
+
+¡Y cualquiera de ellas puede usarse en cualquier lado donde se espere un número!
