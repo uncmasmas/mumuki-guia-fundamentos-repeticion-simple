@@ -1,0 +1,29 @@
+check_head_position: true
+
+subject: PonerN
+
+examples:
+ - initial_board: |
+     GBB/1.0
+     size 2 2
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 2 2
+     cell 0 0 Rojo 2
+     head 0 0
+   arguments:
+    - 2
+    - Rojo
+ - initial_board: |
+     GBB/1.0
+     size 2 2
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 2 2
+     cell 0 0 Verde 4
+     head 0 0
+   arguments:
+    - 4
+    - Verde
