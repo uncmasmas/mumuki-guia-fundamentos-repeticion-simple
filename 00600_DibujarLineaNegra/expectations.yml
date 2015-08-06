@@ -1,0 +1,5 @@
+expectations:
+- binding: DibujarLineaNegra
+  inspection: HasArity:1
+- binding: MoverOeste
+  inspection: HasRepeat

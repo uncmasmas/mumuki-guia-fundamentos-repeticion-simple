@@ -1,0 +1,1 @@
+Como te dijimos antes, entre los paréntesis del `repeat` puede ir cualquier cosa que represente un número... como por ejemplo un **parámetro** :wink:
