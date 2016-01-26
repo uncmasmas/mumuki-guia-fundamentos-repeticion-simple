@@ -1,3 +1,4 @@
+---
 expectations:
 - binding: MoverOeste6
   inspection: HasRepeat

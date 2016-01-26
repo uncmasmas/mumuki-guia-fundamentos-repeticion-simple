@@ -1,3 +1,4 @@
+---
 expectations:
 - binding: ReplicarAzulesConRojas
   inspection: HasUsage:PonerN

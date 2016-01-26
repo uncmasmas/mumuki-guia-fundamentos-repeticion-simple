@@ -1,5 +1,16 @@
+---
+name: Repetición Simple
 locale: es
+type: learning
+beta: false
 language: gobstones
-original_id_format: '%05d'
-learning: true
-name: 'Repetición Simple'
+id_format: '%05d'
+order:
+- 100
+- 200
+- 300
+- 400
+- 500
+- 600
+- 700
+- 800

@@ -1,3 +1,4 @@
+---
 expectations:
 - binding: PonerN
   inspection: HasArity:2
