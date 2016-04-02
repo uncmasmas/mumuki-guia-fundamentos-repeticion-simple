@@ -12,7 +12,7 @@ program {
 }
 ```
 
-¿Notás qué es lo que se repite? Sí, estamos haciendo 5 veces lo mismo: poner una bolita azul. Sin dudas, sería mucho más interesante que la computadora haga eso por nosotros... ¡o sino te estaríamos mintiendo con lo de automatizar!
+¿Notás qué es lo que se repite? Sí, estamos haciendo 5 veces lo mismo: poner una bolita azul. Sin dudas, sería mucho más interesante que la computadora hiciera eso por nosotros... ¡o sino te estaríamos mintiendo con lo de automatizar!
 
 En esta guía vamos a aprender cómo decirle a la computadora que repita varias veces lo mismo, y también algunos trucos más.
 
