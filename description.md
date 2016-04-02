@@ -1,4 +1,4 @@
-Como te contabamos cuando empezaste, programar nos da un gran poder: **nos permite automatizar tareas repetitivas y tediosas**.
+Como te contábamos cuando empezaste, programar nos da un gran poder: **nos permite automatizar tareas repetitivas y tediosas**.
 
 ¿Y qué quiere decir eso de "repetitivas"? Pensemos, por ejemplo, cómo haríamos un programa que ponga 5 pelotitas azules:
 
