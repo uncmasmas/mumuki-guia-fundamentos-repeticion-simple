@@ -1,1 +1,1 @@
-¡Muchísimo mejor! Ahora sí se empieza a poner interesante esto de la programación :smirk:
+¡Muchísimo mejor! Ahora sí se empieza a poner interesante esto de la programación. :smirk:
