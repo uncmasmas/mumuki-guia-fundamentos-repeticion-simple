@@ -1,1 +1,1 @@
-Vamos a entrar en calor: escribí un procedimiento `MoverOeste6`, que mueva el cabezal 6 veces hacia el Oeste.
+Vamos a entrar en calor: escribí un procedimiento `MoverOeste10`, que mueva el cabezal 10 veces hacia el Oeste.
