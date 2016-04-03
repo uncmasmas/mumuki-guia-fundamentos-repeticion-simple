@@ -1,8 +1,8 @@
-Dale que es fácil, acá está el código del ejercicio anterior:
+Es fácil che, acá está el código del ejercicio anterior:
 
 ```puppet
-procedure MoverOeste6() {
-  repeat(6) {
+procedure MoverOeste10() {
+  repeat(10) {
     Mover(Oeste)
   }
 }
