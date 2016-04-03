@@ -2,6 +2,6 @@ Mientras corregíamos ejercicios de un compañero tuyo, nos encontramos con una 
 
 |Lo que hace|Lo que esperábamos|
 |:-|:-|
-|![linea-roja-4-mal.png](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-repeticion-simple/master/images/linea-roja-4-mal.png)|![linea-roja-4.png](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-repeticion-simple/master/images/linea-roja-4.png)|
+|hola|qué tal|
 
 ¿Nos ayudás a corregirla? Te dejamos el código en el editor.
