@@ -4,6 +4,8 @@ Es muy común, al principio, olvidarse de colocar las llaves o incluso pensar qu
 
 ```puppet
 procedure Poner10AlEste() {
+  Mover(Norte)
+
   repeat(10) {
     Mover(Este)
     Poner(Negro)
