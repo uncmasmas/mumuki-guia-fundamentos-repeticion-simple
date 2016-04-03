@@ -1,1 +1,1 @@
-# TODO
+![linea-roja-4-mal.png](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-repeticion-simple/master/images/linea-roja-4-mal.png)
