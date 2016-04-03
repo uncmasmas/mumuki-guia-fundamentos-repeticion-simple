@@ -1,6 +1,4 @@
-# REVISAR, ESTÁ COPY-PASTEADO
-
-Como te decíamos en el corolario del ejercicio anterior, al usar un `repeat` se puede repetir cualquier **secuencia de comandos**. Hasta ahora los ejemplos que vimos sólo repetían un comando (`Mover(Oeste)`), pero en este ejercicio vas a tener que repetir más de uno.
+Hasta ahora los ejemplos que vimos sólo repetían un comando, pero como mencionamos al comenzar es posible repetir cualquier **secuencia de comandos**.
 
 Miremos el código de `DibujarLineaNegra6` que podríamos haber hecho hasta ahora, con algunos espacios en blanco para ayudarnos a reconocer la secuencia que se repite:
 
