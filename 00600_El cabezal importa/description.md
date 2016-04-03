@@ -16,4 +16,4 @@ Si ahora queremos hacer que deje el cabezal en la última celda de la línea, te
 * **Mover el cabezal al Oeste luego de dibujar la línea.** Un truco medio feo, porque para funcionar necesita que haya al menos 5 espacios al Este de la posición inicial, cuando nuestra línea sólo ocupará 4.
 * **Tratar el último caso de manera especial.** Esta opción es más interesante y más fiel a lo que queremos hacer: la última vez no queremos que el cabezal se mueva, simplemente nos basta con poner la bolita negra.
 
-> Teniendo en cuenta esto último, escribí una nueva versión de `LineaNegra4Este` que dibuje una línea negra de longitud 4 hacia el Este y deje el cabezal en la última celda de la línea.
+> Teniendo en cuenta esto último, escribí una nueva versión de `LineaNegra4Este` que deje el cabezal en la última celda de la línea.
