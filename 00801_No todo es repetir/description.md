@@ -14,4 +14,4 @@ program {
 
 Fijate que el `Mover(Sur)` lo pusimos **antes** del `repeat`, y por lo tanto se ejecuta una vez sola.
 
-> Sabiendo esto, escribí `Poner10AlNoreste()`, que ponga 10 bolitas negras en la primera celda al Noreste del cabezal.
+> Sabiendo esto, escribí `Poner3AlNoreste()`, que ponga 3 bolitas negras en la primera celda al Noreste del cabezal.

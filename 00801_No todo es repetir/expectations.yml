@@ -1,4 +1,4 @@
 ---
 expectations:
-- binding: Poner10AlNoreste
+- binding: Poner3AlNoreste
   inspection: HasRepeat
