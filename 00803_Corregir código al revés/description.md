@@ -6,5 +6,4 @@ En vez de este otro, que era lo que esperábamos:
 
 ![linea-roja-4.png](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-repeticion-simple/master/images/linea-roja-4.png)
 
-
-¿Nos podrás ayudar a corregirla? Para ahorrarte trabajo, la escribimos por vos en el editor, así que sólo tenés que corregirla.
+¿Nos ayudás a corregirla? Te dejamos en el editor la solución que hizo él.
