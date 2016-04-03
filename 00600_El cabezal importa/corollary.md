@@ -12,4 +12,4 @@ procedure LineaNegra4Este() {
 }
 ```
 
-Por convención, vamos a preferir la forma que procesa distinto al último caso, aunque a menudo ambas sean equivalentes (es decir, producen el mismo resultado).
+Por convención, vamos a preferir la forma que procesa distinto al último caso, aunque a menudo ambas sean equivalentes (es decir, produzcan el mismo resultado).
