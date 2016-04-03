@@ -1,6 +1,6 @@
 Hasta ahora los ejemplos que vimos sólo repetían un comando, pero como mencionamos al comenzar es posible repetir cualquier **secuencia de comandos**.
 
-Miremos el código de `DibujarLineaNegra6` que podríamos haber hecho hasta ahora, con algunos espacios en blanco para ayudarnos a reconocer la secuencia que se repite:
+Miremos el código de `DibujarLineaNegra6` que podríamos haber hecho sin usar `repeat`, con algunos espacios en blanco para ayudarnos a reconocer la secuencia que se repite:
 
 ```puppet
 procedure DibujarLineaNegra6() {
