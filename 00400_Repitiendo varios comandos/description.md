@@ -18,6 +18,9 @@ procedure DibujarLineaNegra6() {
 
   Poner(Negro)
   Mover(Este)  
+
+  Poner(Negro)
+  Mover(Este)  
 }
 ```
 
