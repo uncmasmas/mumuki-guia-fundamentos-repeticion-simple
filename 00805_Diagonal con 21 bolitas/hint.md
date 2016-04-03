@@ -1,0 +1,1 @@
+A diferencia del anterior, ahora tu tarea para cada celda es más difícil (tenés que hacer más que un `Poner(Azul)`). Buen momento para pensar en dividir tu problema en tareas más pequeñas. :wink:

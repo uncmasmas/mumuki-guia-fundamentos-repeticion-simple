@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: DiagonalPesada4Azul
+  inspection: HasRepeat
