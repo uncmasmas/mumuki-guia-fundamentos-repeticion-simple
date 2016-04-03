@@ -1,5 +1,0 @@
-procedure MoverOeste(cantidad) {
-	repeat(cantidad) {
-		Mover(Oeste)
-	}
-}

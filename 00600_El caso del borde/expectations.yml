@@ -2,5 +2,5 @@
 expectations:
 - binding: DibujarLineaNegra
   inspection: HasArity:1
-- binding: MoverOeste
+- binding: DibujarLineaNegra
   inspection: HasRepeat

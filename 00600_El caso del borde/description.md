@@ -1,0 +1,1 @@
+> Escribí el procedimiento `LineaNegra4Este` que dibuje una línea negra hacia el Este, de longitud 4. El cabezal debe terminar en la última celda de la línea.

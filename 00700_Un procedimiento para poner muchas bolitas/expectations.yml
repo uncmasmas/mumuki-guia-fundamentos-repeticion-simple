@@ -1,6 +1,0 @@
----
-expectations:
-- binding: PonerN
-  inspection: HasArity:2
-- binding: PonerN
-  inspection: HasRepeat
