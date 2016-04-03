@@ -2,3 +2,5 @@
 expectations:
 - binding: CuadradoNegro4
   inspection: HasRepeat
+- binding: CuadradoNegro4
+  inspection: HasUsage:LineaNegra4Este
