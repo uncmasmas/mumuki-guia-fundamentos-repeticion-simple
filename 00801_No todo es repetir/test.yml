@@ -1,6 +1,6 @@
 check_head_position: true
 
-subject: Poner10AlEste
+subject: Poner10AlNoreste
 
 examples:
  - initial_board: |
