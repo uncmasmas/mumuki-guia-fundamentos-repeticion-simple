@@ -9,5 +9,5 @@ examples:
      head 9 0
    final_board: |
      GBB/1.0
-     size 7 2
+     size 11 2
      head 0 0
