@@ -1,4 +1,4 @@
-Siempre que tengas problemas como este vas a poder solucionarlos de la misma manera: **procesando** el último caso por separado.
+Siempre que tengas problemas como este vas a poder solucionarlos de la misma manera: **procesando el último caso por separado**.
 
 Otra variante menos común, y tal vez más difícil de construir también, es la de procesar el **primer** caso aparte:
 
