@@ -1,3 +1,1 @@
-Algunos ejercicios atrás comprobaste que se pueden poner cosas tanto **antes** como **después** de un `repeat`.
-
-Podés usar esa misma idea para tratar el **primero** o el **último** caso de manera especial, sacándolo del `repeat`.
+Algunos ejercicios atrás comprobaste que se pueden poner cosas tanto **antes** como **después** de un `repeat`. Podés usar esa misma idea para tratar el **primero** o el **último** caso de manera especial, sacándolo del `repeat`.
