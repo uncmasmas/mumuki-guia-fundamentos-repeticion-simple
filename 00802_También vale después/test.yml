@@ -5,10 +5,10 @@ subject: PonerAzulLejos
 examples:
  - initial_board: |
      GBB/1.0
-     size 5 5
+     size 5 2
      head 0 1
    final_board: |
      GBB/1.0
-     size 5 5
+     size 5 2
      cell 4 1 Azul 1
      head 4 1
