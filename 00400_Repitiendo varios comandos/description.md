@@ -1,6 +1,8 @@
-Como te decíamos en el corolario del ejercicio anterior, al usar un `repeat` se puede repetir cualquier **secuencia de comandos**. Hasta ahora los ejemplos que vimos sólo repetían un comando (`Mover(Oeste)`), así que en este ejercicio vas a tener que repetir más de uno.
+# REVISAR, ESTÁ COPY-PASTEADO
 
-Miremos el código de `DibujarLineaNegra6` que teníamos hasta ahora, con algunos espacios en blanco que nos van a ayudar a reconocer la secuencia que se repite:
+Como te decíamos en el corolario del ejercicio anterior, al usar un `repeat` se puede repetir cualquier **secuencia de comandos**. Hasta ahora los ejemplos que vimos sólo repetían un comando (`Mover(Oeste)`), pero en este ejercicio vas a tener que repetir más de uno.
+
+Miremos el código de `DibujarLineaNegra6` que podríamos haber hecho hasta ahora, con algunos espacios en blanco para ayudarnos a reconocer la secuencia que se repite:
 
 ```puppet
 procedure DibujarLineaNegra6() {
@@ -18,9 +20,6 @@ procedure DibujarLineaNegra6() {
 
   Poner(Negro)
   Mover(Este)  
-
-  Poner(Negro)
-  MoverOeste5()
 }
 ```
 
