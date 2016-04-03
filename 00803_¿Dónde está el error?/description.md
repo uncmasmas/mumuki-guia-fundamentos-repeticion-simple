@@ -1,6 +1,6 @@
 Mientras corregíamos ejercicios de un compañero tuyo, nos encontramos con una solución para `LineaRoja4` que no está del todo bien, mirá:
 
-|Lo que hace|Lo que esperábamos|
+|Lo que hace|Lo que esperabamos|
 |:-|:-|
 |hola|qué tal|
 
