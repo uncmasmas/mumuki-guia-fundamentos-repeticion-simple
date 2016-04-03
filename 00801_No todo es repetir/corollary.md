@@ -13,4 +13,4 @@ procedure Poner3AlNoreste() {
 }
 ```
 
-# TODO: poner imagen
+![poner-3-al-noreste-mal.png](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-repeticion-simple/master/images/poner-3-al-noreste-mal.png)
