@@ -1,1 +1,1 @@
-Como te dijimos, también es posible ejecutar comandos **después** del `repeat`, y eso es lo que te toca hacer ahora. :wink:
+Como te dijimos, también es posible ejecutar comandos **después** del `repeat`. :wink:
