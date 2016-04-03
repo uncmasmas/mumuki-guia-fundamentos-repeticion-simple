@@ -1,6 +1,0 @@
----
-expectations:
-- binding: MoverOeste
-  inspection: HasRepeat
-- binding: MoverOeste
-  inspection: HasArity:1

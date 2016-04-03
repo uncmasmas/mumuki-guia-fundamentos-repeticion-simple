@@ -1,6 +1,0 @@
----
-expectations:
-- binding: ReplicarAzulesConRojas
-  inspection: HasUsage:PonerN
-- binding: ReplicarAzulesConRojas
-  inspection: HasUsage:nroBolitas
