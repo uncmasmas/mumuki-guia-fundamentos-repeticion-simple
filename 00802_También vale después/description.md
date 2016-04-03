@@ -1,0 +1,1 @@
+Escribí el procedimiento `PonerAzulLejos`, que coloque una bolita Azul 4 celdas hacia el Este.
