@@ -1,0 +1,1 @@
+Usando `LineaNegra4Este`, escribí un procedimiento `CuadradoNegro4` que dibuje un cuadrado de 4x4, dejando el cabezal en el extremo superior derecho del mismo.
