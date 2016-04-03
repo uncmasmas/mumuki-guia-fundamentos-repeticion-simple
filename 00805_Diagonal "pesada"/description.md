@@ -4,4 +4,4 @@ Ahora vamos a hacer lo mismo, pero en versión "pesada".
 
 ![diagonal-pesada-4-azul.png](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-repeticion-simple/master/images/diagonal-pesada-4-azul.png)
 
-El procedimiento que tenés que hacer debe llamarse `DiagonalPesada4Azul`.
+> El procedimiento que tenés que hacer debe llamarse `DiagonalPesada4Azul`.
