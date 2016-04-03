@@ -1,6 +1,4 @@
 ---
 expectations:
-- binding: DibujarLineaNegra
-  inspection: HasArity:1
-- binding: DibujarLineaNegra
+- binding: LineaNegra4Este
   inspection: HasRepeat
