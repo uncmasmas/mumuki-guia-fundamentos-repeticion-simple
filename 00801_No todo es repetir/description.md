@@ -1,4 +1,4 @@
-Los ejemplos que hiciste en los ejercicios anteriores se solucionaban simplemente repitiendo cosas. Pero no todo es repetir, también podemos poner comandos tanto **antes** como **después**, al igual que veníamos haciendo hasta ahora.
+Los ejemplos que hiciste en los ejercicios anteriores se solucionaban simplemente repitiendo cosas. Pero no todo es repetir, también podemos poner comandos tanto **antes** como **después** del `repeat`, al igual que veníamos haciendo hasta ahora.
 
 Por ejemplo, este es un programa que se mueve al Sur y **luego** pone 4 bolitas rojas:
 
