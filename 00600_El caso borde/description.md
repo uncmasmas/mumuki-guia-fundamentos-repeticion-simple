@@ -1,6 +1,6 @@
 Muchas veces cuando usamos un `repeat` nos encontramos con que el último caso es levemente distinto a los anteriores, situación que solemos llamar **caso borde**. Pero mejor, veamos un ejemplo.
 
-El procedimiento `LineaNegra4Este` que te presentamos dibuja una línea negra hacia el Este dejando el cabezal fuera de la línea, una celda hacia el Este.
+El procedimiento `LineaNegra4Este` que te presentamos dibuja una línea negra hacia el Este dejando el cabezal **fuera de la línea**, una celda hacia el Este.
 
 ```puppet
 procedure LineaNegra4Este() {
