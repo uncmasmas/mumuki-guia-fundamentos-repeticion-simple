@@ -1,4 +1,4 @@
-Como ya descubriste, el comando `repeat` consta básicamente de 2 cosas:
+Como ya descubriste, el comando `repeat` consta básicamente de dos elementos:
 
 Un **número entero** (o sea, sin decimales), que indica cuántas veces hay que repetir. Este número va entre paréntesis (`()`) luego de la palabra `repeat`.
 
