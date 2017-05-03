@@ -2,7 +2,7 @@ Muchas veces cuando usamos un `repeat` nos encontramos con que el último caso e
 
 El procedimiento `LineaNegra4Este` que te presentamos dibuja una línea negra hacia el Este dejando el cabezal **fuera de la línea**, una celda hacia el Este.
 
-```puppet
+```gobstones
 procedure LineaNegra4Este() {
   repeat(4) {
     Poner(Negro)

@@ -4,7 +4,7 @@ Entonces, cuando es necesario repetir un comando (como `Mover`, `Poner`, `Dibuja
 
 Sabiendo esto, así es como quedaría `MoverOeste10` usando `repeat`:
 
-```puppet
+```gobstones
 procedure MoverOeste10() {
   repeat(10) {
     Mover(Oeste)

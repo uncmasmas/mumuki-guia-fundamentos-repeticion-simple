@@ -1,6 +1,6 @@
 Es fácil che, acá está el código del ejercicio anterior:
 
-```puppet
+```gobstones
 procedure MoverOeste10() {
   repeat(10) {
     Mover(Oeste)

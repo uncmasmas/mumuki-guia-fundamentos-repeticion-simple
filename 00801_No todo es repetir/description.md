@@ -2,7 +2,7 @@ Los ejemplos que hiciste en los ejercicios anteriores se solucionaban simplement
 
 Por ejemplo, este es un programa que se mueve al Sur y **luego** pone 4 bolitas rojas:
 
-```puppet
+```gobstones
 program {
   Mover(Sur)
   

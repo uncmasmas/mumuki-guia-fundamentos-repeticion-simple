@@ -2,7 +2,7 @@ Hasta el momento los ejemplos que vimos sólo repetían un comando, pero como me
 
 Miremos el código de `DibujarLineaNegra6` que podríamos haber hecho sin usar `repeat`, con algunos espacios en blanco para ayudarnos a reconocer la secuencia que se repite:
 
-```puppet
+```gobstones
 procedure DibujarLineaNegra6() {
   Poner(Negro)
   Mover(Este)
