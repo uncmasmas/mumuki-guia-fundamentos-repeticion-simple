@@ -1,4 +1,4 @@
 ---
 expectations:
-- binding: PonerAzulLejos
+- binding: program
   inspection: HasRepeat
