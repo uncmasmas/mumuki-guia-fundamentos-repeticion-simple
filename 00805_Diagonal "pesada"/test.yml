@@ -1,7 +1,5 @@
 check_head_position: true
 
-subject: DiagonalPesada4Azul
-
 examples:
  - title: 'Con el cabezal en el origen'
    initial_board: |

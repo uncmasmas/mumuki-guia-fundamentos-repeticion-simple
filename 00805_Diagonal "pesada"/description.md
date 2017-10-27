@@ -4,4 +4,4 @@ Ahora vamos a hacer lo mismo, pero en versión "pesada".
 
 ![diagonal-pesada-4-azul.png](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-repeticion-simple/master/images/diagonal-pesada-4-azul.png)
 
-> Construí un procedimiento `DiagonalPesada4Azul` que resuelva el problema.
+> Construí un programa que resuelva el problema.
