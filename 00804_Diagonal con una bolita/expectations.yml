@@ -1,4 +1,4 @@
 ---
 expectations:
-- binding: Diagonal4Azul
+- binding: program
   inspection: HasRepeat
