@@ -1,4 +1,4 @@
 ---
 expectations:
-- binding: LineaNegra4Este
+- binding: program
   inspection: HasRepeat

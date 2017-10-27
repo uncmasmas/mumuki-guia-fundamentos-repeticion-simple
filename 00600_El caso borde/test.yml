@@ -1,7 +1,5 @@
 check_head_position: true
 
-subject: LineaNegra4Este
-
 examples:
  - title: Con lugares de sobra
    initial_board: |
