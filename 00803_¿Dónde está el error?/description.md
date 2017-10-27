@@ -1,4 +1,4 @@
-Mientras corregíamos ejercicios de un compañero tuyo, nos encontramos con una solución para `LineaRoja4` que no está del todo bien, mirá:
+Mientras corregíamos ejercicios de un compañero tuyo, nos encontramos con una solución para crear una línea roja que no está del todo bien, mirá:
 
 | Tablero inicial | Lo que hace | Lo que esperábamos |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|

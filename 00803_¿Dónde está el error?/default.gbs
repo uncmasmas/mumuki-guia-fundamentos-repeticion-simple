@@ -1,4 +1,4 @@
-procedure LineaRoja4() {
+program{
   repeat(4) {
     Mover(Norte)
     Poner(Rojo)
