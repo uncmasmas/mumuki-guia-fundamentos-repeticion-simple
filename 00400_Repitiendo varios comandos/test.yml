@@ -1,6 +1,5 @@
 check_head_position: true
 
-subject: DibujarLineaNegra6
 
 examples:
  - initial_board: |
