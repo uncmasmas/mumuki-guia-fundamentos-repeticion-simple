@@ -1,6 +1,5 @@
 check_head_position: true
 
-subject: MoverOeste5
 
 examples:
  - initial_board: |
