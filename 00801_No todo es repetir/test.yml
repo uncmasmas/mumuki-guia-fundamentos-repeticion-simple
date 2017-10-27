@@ -1,7 +1,5 @@
 check_head_position: true
 
-subject: Poner3AlNoreste
-
 examples:
  - initial_board: |
      GBB/1.0

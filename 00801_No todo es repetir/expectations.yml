@@ -1,4 +1,4 @@
 ---
 expectations:
-- binding: Poner3AlNoreste
+- binding: program
   inspection: HasRepeat
