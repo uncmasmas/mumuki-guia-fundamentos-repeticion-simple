@@ -1,4 +1,0 @@
----
-expectations:
-- binding: program
-  inspection: HasRepeat

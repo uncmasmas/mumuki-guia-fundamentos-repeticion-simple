@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: program
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
   inspection: HasRepeat
